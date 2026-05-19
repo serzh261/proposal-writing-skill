@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local working copies — never commit your firm-specific filled-in version
+proposal-writing-private/
+*-private/
+*-internal/
+
+# Zips
+*.zip
